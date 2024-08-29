@@ -1,7 +1,7 @@
 # Hello, I'm Anthony
-<a href="www.linkedin.com/in/anthony-richardson-096569127"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/anthony-richardson-096569127"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a transition US Air Force service member with a profound intrest in technolgoy and a passion for solving complex problems.
+I am a transitioning US Air Force service member with a profound intrest in technolgoy and a passion for solving complex problems.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
