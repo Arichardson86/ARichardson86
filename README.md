@@ -23,6 +23,12 @@ My journey in Information Technology has led me to develop a passion for cyberse
  
 </div>
 
+### Virtualization 
+<div>
+<img src="https://img.shields.io/badge/-Proxmox-000000?&style=for-the-badge&logo=Proxmox&logoColor=white" />
+    
+</div>
+
 ### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
@@ -44,5 +50,5 @@ My journey in Information Technology has led me to develop a passion for cyberse
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- SIEM Project
+- virtualization with PROXMOX
